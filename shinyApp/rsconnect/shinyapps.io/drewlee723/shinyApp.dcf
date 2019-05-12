@@ -1,0 +1,12 @@
+name: shinyApp
+title: shinyApp
+username:
+account: drewlee723
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 924844
+bundleId: 2078064
+url: https://drewlee723.shinyapps.io/shinyApp/
+when: 1557644779.68394
+asMultiple: FALSE
+asStatic: FALSE
