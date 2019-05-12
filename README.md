@@ -10,5 +10,5 @@ This Shiny App is for visualizing the linear regression of MTCars of various var
 The project Shiny Application URL: https://drewlee723.shinyapps.io/shinyApp/
   
 ## Presentation
-RStudio presenter is used and published.
-Presentation URL: 
+RPubs is used and published.
+Presentation URL: http://rpubs.com/sjlee_/495457
