@@ -14,10 +14,10 @@ knitr::opts_chunk$set(echo = TRUE)
 This presentation is a part of deliverable required for Data Products Course week 4 project.
 
 The application demo built by Shiny and can be found at the URL:
-https://mam-moneim.shinyapps.io/ShinyApp/
+https://drewlee723.shinyapps.io/shinyApp/
 
 Source code is at GitHub for the application and presnetation at the URL:
-https://github.com/mmonim/Coursera-Data-Products-Week-4-Project
+
 
 ## Web Application
 
